@@ -7,8 +7,9 @@ function App() {
 
   return (
     <div>
+      <Hero/>
       <Projects/>
-      <Hero />
+      
     </div>
   )
 }
