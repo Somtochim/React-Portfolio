@@ -47,11 +47,13 @@ function Hero() {
           HTML, CSS, and JavaScript, and I am always eager to learn new technologies 
           and improve my skills.
         </p>
-      </div>
-      
+
+        
       <a href={cv} download>
         <button className={styles.hover}>RESUME</button>
       </a>
+      </div>
+      
     </section>
   );
 }
